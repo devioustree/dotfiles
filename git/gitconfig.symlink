@@ -5,8 +5,8 @@
 [hub]
         protocol = https
 [user]
-        name = Zach Holman
-        email = zach@zachholman.com
+        name = Tom Drummond
+        email = tom@devioustree.co.uk
 [credential]
         helper = osxkeychain
 [alias]
@@ -22,7 +22,7 @@
         ui = true
 [core]
         excludesfile = ~/.gitignore
-        editor = vim
+        editor = emacs
 [apply]
         whitespace = nowarn
 [mergetool]
